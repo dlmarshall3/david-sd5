@@ -175,7 +175,7 @@ export default function App() {
         </div>
 
         <div className="mb-8">
-          <h2 className="mb-4 text-3xl underline">Any other questions?</h2><a href="https://amazon-swdv5.slack.com/team/U06D6HXP1LG">Find
+          <h2 className="mb-4 text-3xl underline">Any other questions?</h2><a href="https://amazon-swdv5.slack.com/team/U06D6HXP1LG" className="underline text-blue-300">Find
           me on Slack</a> and let me know. I'm excited to be working with you!
         </div>
       </div>
