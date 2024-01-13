@@ -175,8 +175,8 @@ export default function App() {
         </div>
 
         <div className="mb-8">
-          <h2 className="mb-4 text-3xl underline">Any other questions?</h2>Find
-          me on Slack and let me know. I'm excited to be working with you!
+          <h2 className="mb-4 text-3xl underline">Any other questions?</h2><a href="https://amazon-swdv5.slack.com/team/U06D6HXP1LG">Find
+          me on Slack</a> and let me know. I'm excited to be working with you!
         </div>
       </div>
     </div>
