@@ -84,7 +84,7 @@ export default function App() {
               whether that's with a keyboard or a pen or paper, it won't click.
               This is not a solely "cerebral" skillset. It's a fully embodied
               one. The "basics" you'll be learning are principles you'll be
-              utilizing throughout your entire career. Better learn them know
+              utilizing throughout your entire career. Better learn them now
               than to not know them later! (Plus, you'll learn coding is fun.)
             </li>
             <li className="mb-4">
